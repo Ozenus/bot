@@ -7,7 +7,7 @@ YOUR_ID = 1045262704543281242
 
 TARGET_ID = 900057792751206453
 
-TEXT_CHANNEL_ID = 111111111111111111
+TEXT_CHANNEL_ID = 1513954926735392951
 intents = discord.Intents.default()
 intents.voice_states = True
 intents.members = True
