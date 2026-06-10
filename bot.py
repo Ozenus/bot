@@ -6,8 +6,8 @@ TOKEN = os.getenv("DISCORD_TOKEN")
 
 YOUR_ID = 1045262704543281242
 TARGET_ID = 900057792751206453
-VOICE_JOIN_CHANNEL_ID = 1259222715479363645  # Канал для пингов при заходе в войс
-RAID_CHANNEL_ID = 1513954926735392951  # Канал для команды /raid (замените на нужный ID)
+VOICE_JOIN_CHANNEL_ID = 1513954926735392951  # Канал для пингов при заходе в войс
+RAID_CHANNEL_ID = 1259222715479363645  # Канал для команды /raid (замените на нужный ID)
 
 intents = discord.Intents.default()
 intents.voice_states = True
